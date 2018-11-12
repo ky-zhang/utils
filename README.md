@@ -19,3 +19,7 @@ python3 plot.py -input mnist_vec2D.txt -label mnist_label.txt -output mnist_vec2
 ```
 python3 plot_folder.py -input ./out/ -output ./png/ -label ../mnist_label.txt
 ```
+
+### lecture downloader
+
+It can help you download all lecture notes from a webpage in one step.
